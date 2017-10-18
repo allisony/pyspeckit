@@ -6,4 +6,4 @@ cd pyspeckit-pyspeckit.bitbucket.org-tip
 python setup.py install
 
 or if you have pip:
-pip install https://bitbucket.org/pyspeckit/pyspeckit.bitbucket.org/get/tip.tar.gz
+pip install https://github.com/pyspeckit/pyspeckit/archive/master.zip
